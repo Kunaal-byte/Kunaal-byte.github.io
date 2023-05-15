@@ -94,5 +94,6 @@ declare global {
     initMap: () => void;
   }
 }
+console.log("runnin")
 window.initMap = initMap;
 
