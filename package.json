@@ -26,6 +26,7 @@
     "build": "vite build --outDir dist --base './'",
     "test": "tsc --no-emit",
     "preview": "vite preview"
+    "deploy":"npm run start"
   },
   "devDependencies": {
     "@types/google.maps": "^3.51.0",
