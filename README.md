@@ -8,6 +8,7 @@ https://github.com/googlemaps/js-samples.
 ```sh
 npm i
 npm start  # development
+npm run start-nw
 npm run build  # production
 ```
 
