@@ -20,12 +20,12 @@
   "files": [],
   "license": "Apache-2.0",
   "scripts": {
-    "dev": "vite",
+    
     "start": "node server.js",
     "start-nw":"node server.js",
-    "build": "vite build --outDir dist --base './'",
-    "test": "tsc --no-emit",
-    "preview": "vite preview"
+   
+   
+   
     "deploy":"npm run start"
   },
   "devDependencies": {
