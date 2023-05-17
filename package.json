@@ -9,13 +9,13 @@
     "maps",
     "samples"
   ],
-  "homepage": "https://github.com/googlemaps/js-samples#readme",
+  "homepage": "https://github.com/Kunaal-byte/Kunaal-byte.github.io",
   "bugs": {
-    "url": "https://github.com/googlemaps/js-samples/issues"
+    "url": "https://github.com/Kunaal-byte/Kunaal-byte.github.io"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/googlemaps/js-samples.git"
+    "url": "https://github.com/Kunaal-byte/Kunaal-byte.github.io"
   },
   "files": [],
   "license": "Apache-2.0",
