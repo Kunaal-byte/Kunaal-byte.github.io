@@ -7,7 +7,7 @@ const port = 8080
 const {join} = require('path')
 
 app.get('/', (req, res) => {
-    res.sendFile("newsindex.html", { root: join(__dirname) })
+    res.sendFile("index.html", { root: join(__dirname) })
 })
 
 app.get('/api', async (req, res) => {
