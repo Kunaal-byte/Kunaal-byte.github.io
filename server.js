@@ -1,6 +1,6 @@
 
 import {express} from 'express'
-const express = express()
+
 const path = require('path')
 const axios = require('axios')
 const app = express()
